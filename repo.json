@@ -16,8 +16,8 @@
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://sync.tri.sh/release/0.11.23.zip",
-        "DownloadLinkTesting": "https://sync.tri.sh/release/0.11.23.zip",
-        "DownloadLinkUpdate": "https://sync.tri.sh/update/0.11.23.zip"
+        "DownloadLinkInstall": "https://sync.tri.sh/release/latest.zip",
+        "DownloadLinkTesting": "https://sync.tri.sh/testing/latest.zip",
+        "DownloadLinkUpdate": "https://sync.tri.sh/update/latest.zip"
       }
 ]
