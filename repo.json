@@ -66,8 +66,8 @@
           "Sea Of Stars"
         ],
         "InternalName": "Glamourer",
-        "AssemblyVersion": "1.5.1.0",
-        "TestingAssemblyVersion": "1.5.1.0",
+        "AssemblyVersion": "1.5.0.6",
+        "TestingAssemblyVersion": "1.5.0.6",
         "RepoUrl": "https://github.com/Ottermandias/Glamourer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 13,
