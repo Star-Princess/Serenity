@@ -16,8 +16,8 @@
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://sync.tri.sh/release/serenity/0.11.26.zip",
-        "DownloadLinkTesting": "https://sync.tri.sh/testing/serenity/0.11.26.zip",
-        "DownloadLinkUpdate": "https://sync.tri.sh/update/serenity/0.11.26.zip"
+        "DownloadLinkInstall": "https://sync.tri.sh/release/serenity/0.11.27.zip",
+        "DownloadLinkTesting": "https://sync.tri.sh/testing/serenity/0.11.27.zip",
+        "DownloadLinkUpdate": "https://sync.tri.sh/update/serenity/0.11.27.zip"
       }
 ]
