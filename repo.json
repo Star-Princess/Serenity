@@ -2,18 +2,16 @@
   {
     "Author": "Star Princess",
     "Name": "Serenity",
-    "InternalName": "Serenity",
+    "InternalName": "mareSynchronos",
     "AssemblyVersion": "2.0.2",
-    "TestingAssemblyVersion": "2.0.2.69",
     "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Star-Princess/Serenity-Client",
+    "RepoUrl": "https://github.com/MareSynchronos/client",
     "Tags": [
       "customization",
       "sync"
     ],
     "DalamudApiLevel": "14",
-    "TestingDalamudApiLevel": "14",
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/Star-Princess/Serenity/main/images/icon.png",
     "Punchline": "Let others see you as you see yourself.",
