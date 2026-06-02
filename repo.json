@@ -19,7 +19,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadLinkInstall": "https://sync.tri.sh/release/serenity/3.0.3.0.zip",
-    "DownloadLinkTesting": "https://sync.tri.sh/testing/serenity/3.0.3.0.zip",
+    "DownloadLinkTesting": "https://sync.tri.sh/testing/serenity/3.1.0.0.zip?v=3.1.0.1",
     "DownloadLinkUpdate": "https://sync.tri.sh/update/serenity/3.0.3.0.zip",
   }
 ]
