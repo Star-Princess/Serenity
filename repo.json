@@ -3,7 +3,7 @@
     "Author": "Star Princess",
     "Name": "Serenity",
     "InternalName": "LightlessSync",
-    "AssemblyVersion": "3.1.2.0",
+    "AssemblyVersion": "3.1.3.0",
     "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Star-Princess/Serenity-Client",
@@ -16,6 +16,6 @@
     "IconUrl": "https://raw.githubusercontent.com/Star-Princess/Serenity/main/images/icon.png",
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": "False",
-    "DownloadLinkInstall": "https://sync.tri.sh/release/serenity/latest.zip?v=3.1.2.0"
+    "DownloadLinkInstall": "https://sync.tri.sh/release/serenity/3.1.3.0.zip"
   }
 ]
